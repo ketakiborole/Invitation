@@ -1,0 +1,161 @@
+.container-fluid{
+    background-color: white;
+}
+body{
+    background-color: lightgray;
+}
+.nav-ul{
+   
+    color:black !important;
+    
+    list-style-type:none;
+}
+.nav-ul>li{
+    display: inline !important;
+    padding-right: 7px;
+}
+.nav-bg{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-li{
+    background-color: white !important;
+    border:none !important;
+}
+.left-column{
+    background-color: rgb(4, 4, 70);
+    padding: 0 !important;
+   
+}
+ul{
+    list-style-type: none;
+    margin:0 !important;
+}
+
+.left-ul{
+    color:white;
+}
+.left-ul>li{
+    padding-bottom: 2%;
+    padding-top: 5%;
+    font-size: 13px;
+}
+.sub-ul>li{
+    padding-bottom: 4%;
+    padding-top: 3%;
+    font-size: 13px;
+}
+.sub-li{
+    background-color: dodgerblue;
+}
+.fa-desktop{
+    padding-right: 2% !important;
+}
+h1{
+    text-align: center !important;
+    font-size: 1.75rem !important;
+    margin-top: 7% !important;
+}
+p{
+    text-align: center !important;
+    font-size: 13px;
+    color: grey;
+}
+.middle-search{
+    align-content: center;
+    width: 55% !important;
+    margin: 4% 0% 0% 23% !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 5% 7% 4% 6% !important;
+}
+.input-group-text{
+    color:white !important;
+    background-color: dodgerblue !important;
+    border:none !important;
+    padding: 0.375rem 1.75rem !important;
+}
+.middle-search>p{
+    font-size: 13px;
+    color: grey;
+    text-align: start !important;
+}
+.input-group{
+    width: 100% !important;
+}
+.copy-link{
+    width: 42% !important;
+    margin: 3% 0 0 29%;
+    color: black !important;
+}
+.copy-form{
+    color: black !important;
+}
+.copy-btn{
+    color: black !important;
+    background-color: lightgrey !important;
+    background-image: none !important;
+    border-color: lightgray !important;
+}
+.icon{
+    color:dodgerblue;
+    background-color: white;
+    padding-right: 2%;
+    padding-top: 2%;
+}
+.icon-list{
+    margin-left:45%;
+}
+h4{
+    margin-left: 25%;
+    font-size: 1.25rem !important;
+    margin-top: 5% !important;
+}
+.invite-status{
+    text-align: right;
+    float:right;
+    color:orangered;
+}
+.invite-ul{
+    width: 54%;
+    margin-left: 21% !important;
+}
+.register-status{
+    text-align: right;
+    float:right;
+    color:black;
+}
+.dollar-status{
+    text-align: right;
+    float:right;
+    color:rgb(42, 146, 42);
+
+}
+.invite-ul>li{
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-bottom: 1px solid lightgray;
+}
+.footer-ul>li{
+    display: inline;
+   
+    padding-left:5%;
+}
+.footer{
+    background-color: rgb(195, 216, 224);
+    margin-top: 10%;
+}
+.footer-btn{
+    background-color: rgb(195, 216, 224) !important;
+    border:none !important;
+}
+.footer-ul{
+    width: 100% !important;
+    padding-top: 7px;
+}
+.img-footer{
+    width: 15px;
+    height: 15px;
+}
+.footer-p{
+    margin-left: 9%;
+}
